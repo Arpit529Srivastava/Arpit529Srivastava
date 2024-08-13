@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello World! Myself Arpit Srivasatava<br>Currently working on upscaling my skills as a backend engineering<br>Ask me about Competitive Programming, Go.<br>
-
+![logo](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arpit-srivastava) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@arpit_529) 
