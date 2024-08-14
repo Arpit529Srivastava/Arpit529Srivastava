@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello World! Myself Arpit Srivasatava<br>Currently working on upscaling my skills as a backend engineering<br>Ask me about Competitive Programming, Go.<br>
+## Hello World! Myself Arpit Srivasatava<br>Currently working on upscaling my skills as a backend engineer<br>Ask me about Competitive Programming, Go.<br>
 ![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## 🌐 Socials:
