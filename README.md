@@ -3,7 +3,7 @@
 ![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arpit-srivastava) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@arpit_529) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22503823/arpit-srivastava) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@arpit_529) 
 
 
 # 💻 Tech Stack:
