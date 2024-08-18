@@ -11,8 +11,9 @@
 # 📊 GitHub Stats:
 ![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpit529srivastava&show_icons=true&theme=transparent)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arpit529srivastava&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arpit529srivastava&theme=dracula)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit529srivastava&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arpit529Srivastava&theme=radical&no-frame=false&no-bg=true&margin-w=4)
