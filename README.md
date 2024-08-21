@@ -4,6 +4,8 @@
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22503823/arpit-srivastava) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@arpit_529) 
+<a href="mailto:arpitsrivastava529@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 
 
 # 💻 Tech Stack:
