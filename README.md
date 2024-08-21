@@ -12,7 +12,7 @@
 ![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpit529srivastava&show_icons=true&theme=transparent)
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=arpit529srivastava&theme=monokai)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Singh04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit529srivastava&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
