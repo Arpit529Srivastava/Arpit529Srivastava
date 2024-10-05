@@ -20,8 +20,8 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arpit529srivastava&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arpit529srivastava&theme=radical&hide_border=false)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpit529srivastava&show_icons=true&theme=radical)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=arpit529srivastava&theme=radical&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit529srivastava&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
