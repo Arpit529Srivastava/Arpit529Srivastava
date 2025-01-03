@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Golang and Backend projects.
 - 🤔 I’m looking for help with Dockers and Kubernetes.
 - 💬 Ask me about Competitive Programming and Backend Development
-- 📬 Reach me out arpitsrivastava529@gmail.com or Linkdin
+- 📬 Reach me out arpitsrivastava529@gmail.com or Linkedin
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
