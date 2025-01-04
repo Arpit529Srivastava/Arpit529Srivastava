@@ -16,7 +16,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,go,docker,bash,mongodb,firebase,c,cpp,nodejs,jenkins,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,go,docker,bash,mongodb,firebase,c,cpp,nodejs,githubactions,jenkins,kubernetes)](https://skillicons.dev)
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 # 📊 GitHub Stats:
