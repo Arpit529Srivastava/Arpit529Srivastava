@@ -29,11 +29,6 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arpit529Srivastava&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
 [![An image of @arpit529srivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpit529srivastava)](https://holopin.io/@arpit529srivastava)
 <!--[![committers.top badge](https://user-badge.committers.top/india_private/arpit529srivastava.svg)](https://user-badge.committers.top/india_private/arpit529srivastava) -->
 
