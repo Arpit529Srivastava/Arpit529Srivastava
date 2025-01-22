@@ -23,7 +23,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpit529srivastava&theme=monokai)</br>
 ![](https://github-readme-stats.vercel.app/api?username=arpit529srivastava&show_icons=true&theme=radical)<br/>
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=arpit529srivastava&theme=radical&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</br>
+</br>
 <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arpit529srivastava&langs_count=10&layout=compact&theme=monokai&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=300">
 <br>
 
