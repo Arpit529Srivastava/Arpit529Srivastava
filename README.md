@@ -1,8 +1,8 @@
 # 💫 About Me:
-
-- 🔭 I’m currently working on backend Development.
-- 🌱 I’m currently learning GoLang.
-- 👯 I’m looking to collaborate on Golang and Backend projects.
+### Hey everyone, I am Developer from India. A DevOps Enthusiast, Competitive Programmer, GoLang and K8s are just my thing ;)
+- 🔭 I’m currently working on Devops.
+- 🌱 I’m currently learning K8s.
+- 👯 I’m looking to collaborate on Golang and DevOps projects.
 - 🤔 I’m looking for help with Dockers and Kubernetes.
 - 💬 Ask me about Competitive Programming and Backend Development
 - 📬 Reach me out arpitsrivastava529@gmail.com 
