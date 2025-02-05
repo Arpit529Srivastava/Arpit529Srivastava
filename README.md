@@ -16,7 +16,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,go,docker,bash,mongodb,firebase,c,cpp,nodejs,jenkins,kubernetes,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,go,docker,bash,mongodb,firebase,c,cpp,nodejs,jenkins,kubernetes,ubuntu)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 
