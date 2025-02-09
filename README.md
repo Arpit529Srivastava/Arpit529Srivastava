@@ -15,8 +15,28 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,go,docker,bash,mongodb,firebase,c,cpp,nodejs,jenkins,kubernetes,ubuntu)](https://skillicons.dev)
+### ⚒️ Tech Stack:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  /> -->
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="54" height="54" />
+    <!--<img src="https://skillicons.dev/icons?i=ts" /> -->
+    <img src="https://skillicons.dev/icons?i=express" />
+    <img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
+    <img src="https://skillicons.dev/icons?i=bash" />
+   <!-- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" /> -->
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=githubactions" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="54" height="54" />
+    
+ </p>
 
 # 📊 GitHub Stats:
 
