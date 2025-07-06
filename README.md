@@ -14,7 +14,10 @@
  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 [![LinkedIn](https://img.shields.io/badge/Codeforces-333333?style=for-the-badge&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/arpitsrivastava529/) 
 
-   
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpit529srivastava&theme=github_dark&hide_border=true&show_icons=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arpit529srivastava&theme=github_dark&hide_border=true" width="48%" />
+</div> -->
 
 
 <!--[![committers.top badge](https://user-badge.committers.top/india_private/arpit529srivastava.svg)](https://user-badge.committers.top/india_private/arpit529srivastava) -->
