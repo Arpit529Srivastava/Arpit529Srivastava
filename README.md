@@ -17,7 +17,11 @@
 ---
 
 ## 🏅 Open Source Badge
-<img width="200" height="200" alt="KubeStellar - KubeStellar Interns for Open Source Participant - Fall 2025 - 2025-11-24" src="https://github.com/user-attachments/assets/7b9dff0d-5e1a-4e14-a065-9a531f9087fe" />
+<img width="200" height="200" alt="KubeStellar - KubeStellar Interns for Open Source Participant - Fall 2025 - 2025-11-24" src="https://github.com/user-attachments/assets/7b9dff0d-5e1a-4e14-a065-9a531f9087fe" /> 
+<img width="200" height="200" alt="Screenshot 2025-12-27 at 3 35 40 PM" src="https://github.com/user-attachments/assets/be1013b9-1358-4d62-8322-d74dfabe8371" />
+<img width="200" height="200" alt="Screenshot 2025-12-27 at 3 40 34 PM" src="https://github.com/user-attachments/assets/a40c597a-eadc-4338-aa6e-2a0d2d145093" />
+
+
 
 <!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arpit529srivastava&theme=github_dark&hide_border=true&show_icons=true&count_private=true" width="48%" />
