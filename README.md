@@ -1,8 +1,8 @@
 # 💫 About Me: ![](https://komarev.com/ghpvc/?username=Arpit529srivastava)
 ### Hey everyone, I am Developer from India. A DevOps Enthusiast, Competitive Programmer, GoLang and K8s are just my thing ;)
-- 🔭 I’m currently working on Devops.
+- 🔭 I’m currently working as Devops Engineer.
 - 🌱 I’m currently learning GitOps, Infraops.
-- 👯 I’m looking to collaborate on Golang and DevOps projects.
+- 👯 I’m looking to collaborate on Golang, Rust and DevOps projects.
 - 🤔 I’m looking for help with ArgoCD and IaC.
 - 💬 Ask me about Competitive Programming and DevOps.
 - 📬 Reach me out arpitsrivastava529@gmail.com <br>
