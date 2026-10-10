@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with ArgoCD and IaC.
 - 💬 Ask me about Competitive Programming and DevOps.
 - 📬 Reach me out arpitsrivastava529@gmail.com <br>
+- ⚒️ Building [Foyr](https://foyrai.vercel.app/) Deploy the app you already wrote - with login, invites and roles built in.
 
 
 ## 🌐 Socials:
